@@ -1594,7 +1594,7 @@ nav a:hover {
   font-weight: 600;
   letter-spacing: -0.025em;
   color: var(--ink);
-  max-width: 500px;
+  /* max-width: 500px; */
   line-height: 1.2;
 }
 
